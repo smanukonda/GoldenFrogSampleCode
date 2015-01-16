@@ -1,0 +1,7 @@
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\bin\Debug\ArrayHelperUnitTest.dll
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\bin\Debug\ArrayHelperUnitTest.pdb
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\bin\Debug\GoldenFrogArray.exe
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\bin\Debug\GoldenFrogArray.pdb
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\obj\Debug\ArrayHelperUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\obj\Debug\ArrayHelperUnitTest.dll
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\ArrayHelperUnitTest\obj\Debug\ArrayHelperUnitTest.pdb

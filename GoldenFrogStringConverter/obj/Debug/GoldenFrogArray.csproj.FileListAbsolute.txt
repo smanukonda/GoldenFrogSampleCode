@@ -1,0 +1,5 @@
+c:\users\sande_000\documents\visual studio 2013\Projects\GoldenFrogArray\GoldenFrogArray\bin\Debug\GoldenFrogArray.exe.config
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\GoldenFrogArray\bin\Debug\GoldenFrogArray.exe
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\GoldenFrogArray\bin\Debug\GoldenFrogArray.pdb
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\GoldenFrogArray\obj\Debug\GoldenFrogArray.exe
+C:\Users\sande_000\Documents\Visual Studio 2013\Projects\GoldenFrogArray\GoldenFrogArray\obj\Debug\GoldenFrogArray.pdb

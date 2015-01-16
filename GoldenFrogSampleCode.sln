@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenFrogLogin", "GoldenFrogLogin\GoldenFrogLogin.csproj", "{08F8C3A1-FFA1-4C79-B6EC-C2CDEA1C5342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenFrogStringConverter", "GoldenFrogStringConverter\GoldenFrogStringConverter.csproj", "{B42A5412-3775-4698-93FA-D4F1D6B02EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConverterTests", "StringConverterTest\StringConverterTests.csproj", "{4DAF3066-44C6-4A59-83C1-C71FE708ADEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F8C3A1-FFA1-4C79-B6EC-C2CDEA1C5342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F8C3A1-FFA1-4C79-B6EC-C2CDEA1C5342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F8C3A1-FFA1-4C79-B6EC-C2CDEA1C5342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F8C3A1-FFA1-4C79-B6EC-C2CDEA1C5342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42A5412-3775-4698-93FA-D4F1D6B02EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42A5412-3775-4698-93FA-D4F1D6B02EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42A5412-3775-4698-93FA-D4F1D6B02EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42A5412-3775-4698-93FA-D4F1D6B02EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAF3066-44C6-4A59-83C1-C71FE708ADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAF3066-44C6-4A59-83C1-C71FE708ADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAF3066-44C6-4A59-83C1-C71FE708ADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAF3066-44C6-4A59-83C1-C71FE708ADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
