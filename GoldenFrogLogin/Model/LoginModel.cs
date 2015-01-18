@@ -7,7 +7,7 @@ namespace GoldenFrogLogin.Model
     /// <summary>
     /// Model class to handle login
     /// </summary>
-    public class LoginModel : INotifyPropertyChanged
+    public class LoginModel : INotifyPropertyChanged, IDataErrorInfo
     {
         #region Private Variables
 
@@ -69,5 +69,26 @@ namespace GoldenFrogLogin.Model
         }
 
         #endregion
+
+        public string this[string columnName]
+        {
+            get
+            {
+                string result = null;
+                if (columnName == "UserName")
+                {
+                    if (string.IsNullOrEmpty(UserName))
+                        result = "Please enter a User Name";
+                }
+                if (columnName == "Password")
+                {
+                    if (Password == null || (Password != null && Password.Length == 0))
+                        result = "Please enter a Password";
+                }
+                return result;
+            }
+        }
+
+        public string Error { get; private set; }
     }
 }

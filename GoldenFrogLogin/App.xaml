@@ -3,26 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              >
     <Application.Resources>
-        <Style TargetType="TextBox">
-            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
-            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
-            <Setter Property="Width" Value="200"></Setter>
-            <Setter Property="Margin" Value="5"></Setter>
-        </Style>
-        <Style TargetType="PasswordBox">
-            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
-            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
-            <Setter Property="Width" Value="200"></Setter>
-            <Setter Property="Margin" Value="5"></Setter>
-        </Style>
-        <Style TargetType="TextBlock" x:Key="TextEntryLabel">
-            <Setter Property="HorizontalAlignment" Value="Right"></Setter>
-            <Setter Property="Margin" Value="0,5,5,5"></Setter>
-        </Style>
-        <Style TargetType="Button">
-            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
-            <Setter Property="Margin" Value="5,3"></Setter>
-            <Setter Property="Width" Value="50"></Setter>
-        </Style>
+        <ResourceDictionary Source="Resources/MainStyleSheet.xaml"></ResourceDictionary>
     </Application.Resources>
 </Application>

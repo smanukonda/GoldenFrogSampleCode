@@ -76,7 +76,7 @@ namespace GoldenFrogLogin.ViewModel
 
         public ICommand ResetCommand
         {
-            get { return _resetCommand ?? (_resetCommand = new RelayCommand(Reset_Executed, (o) => !string.IsNullOrWhiteSpace(AuthModel.UserName) || AuthModel.Password != null)); }
+            get { return _resetCommand ?? (_resetCommand = new RelayCommand(Reset_Executed, (o) => !string.IsNullOrWhiteSpace(AuthModel.UserName) || (AuthModel.Password != null) && AuthModel.Password.Length > 0)); }
         }
 
         private void Reset_Executed(object obj)
